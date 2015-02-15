@@ -1,1 +1,1 @@
-{ test: true, value: null }
+{"type":"counter","value":0,"counter":75}
