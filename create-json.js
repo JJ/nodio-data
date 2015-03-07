@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var foo = { 'test': true,
-	'value': null };
+var foo = { "message": 'Counter updated',
+	    "content": 'eyJ0eXBlIjoiY291bnRlciIsInZhbHVlIjowLCJjb3VudGVyIjozN30=' };
 
 console.log( foo );
